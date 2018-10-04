@@ -3,7 +3,8 @@ using System;
 namespace Point
 {
     class Point{
-        public int x;
+        public 
+        int x;
         int y;
 
         public Point(){
@@ -11,7 +12,7 @@ namespace Point
             y=0;
         }
 
-        public Point(int x0, int y0){
+        public Point(int x0=8, int y0=99){
             x=x0;
             x=y0;
         }
