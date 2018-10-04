@@ -3,7 +3,7 @@ using System;
 namespace Point
 {
     class Point{
-        // public 
+        // public **public causes the variable to be acessed outside when its not meant to
         int x;
         int y;
 
@@ -13,21 +13,16 @@ namespace Point
         }
 
         public Point(int x0 = 8, int y0 = 99){
-            if(x0>=0)
-            {
+            if(x0>=0){
                 x=x0;
             }
-            else
-            {
+            else{
                 x=0;
             }
                  
-            if(y0>=0)
-            {
+            if(y0>=0){
                 y = y0;
-            }
-            else
-            {
+            }else{
                 y=0;
             }
         }

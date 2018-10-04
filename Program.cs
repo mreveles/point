@@ -14,7 +14,7 @@ namespace Point
             p2.display();
             p3.display();
 
-            // p1.x = 10;
+            // p1.x = 10; **without parameter being public no access to variable is granted
             p1.display();
         }
 
