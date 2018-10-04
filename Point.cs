@@ -32,3 +32,9 @@ namespace Point
         }
     }
 }
+/*
+****Things to know***
+constructor class
+purpose of Constructor class
+when to call it
+ */
