@@ -20,3 +20,14 @@ C:\Reveles\4360\point\obj\Debug\netcoreapp2.1\point.AssemblyInfoInputs.cache
 C:\Reveles\4360\point\obj\Debug\netcoreapp2.1\point.AssemblyInfo.cs
 C:\Reveles\4360\point\obj\Debug\netcoreapp2.1\point.dll
 C:\Reveles\4360\point\obj\Debug\netcoreapp2.1\point.pdb
+C:\4360\point\bin\Debug\netcoreapp2.1\point.deps.json
+C:\4360\point\bin\Debug\netcoreapp2.1\point.runtimeconfig.json
+C:\4360\point\bin\Debug\netcoreapp2.1\point.runtimeconfig.dev.json
+C:\4360\point\bin\Debug\netcoreapp2.1\point.dll
+C:\4360\point\bin\Debug\netcoreapp2.1\point.pdb
+C:\4360\point\obj\Debug\netcoreapp2.1\point.csprojAssemblyReference.cache
+C:\4360\point\obj\Debug\netcoreapp2.1\point.csproj.CoreCompileInputs.cache
+C:\4360\point\obj\Debug\netcoreapp2.1\point.AssemblyInfoInputs.cache
+C:\4360\point\obj\Debug\netcoreapp2.1\point.AssemblyInfo.cs
+C:\4360\point\obj\Debug\netcoreapp2.1\point.dll
+C:\4360\point\obj\Debug\netcoreapp2.1\point.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Reveles\\4360\\point\\point.csproj",
+      "projectUniqueName": "c:\\4360\\point\\point.csproj",
       "projectName": "point",
-      "projectPath": "c:\\Reveles\\4360\\point\\point.csproj",
+      "projectPath": "c:\\4360\\point\\point.csproj",
       "packagesPath": "C:\\Users\\mr989561\\.nuget\\packages\\",
-      "outputPath": "c:\\Reveles\\4360\\point\\obj\\",
+      "outputPath": "c:\\4360\\point\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
